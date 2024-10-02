@@ -7,6 +7,7 @@ debug.log
 **/*.import
 # Imported translations (automatically generated from CSV files)
 *.translation
+GameTemplate/.godot/
 
 # Mono-specific ignores
 .mono/
